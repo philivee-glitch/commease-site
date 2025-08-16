@@ -1,3 +1,7 @@
+---
+title: Privacy Policy
+---
+
 # CommEase Privacy Policy
 
 **Effective date:** 16 August 2025  
