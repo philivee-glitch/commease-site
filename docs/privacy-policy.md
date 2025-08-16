@@ -1,6 +1,10 @@
 ---
+---
 title: Privacy Policy
 ---
+
+# CommEase Privacy Policy
+
 
 # CommEase Privacy Policy
 
