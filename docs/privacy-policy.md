@@ -44,7 +44,7 @@ Data is stored locally using the platform’s standard app storage. Do not store
 We may update this policy from time to time. Material changes will be reflected on this page with a new effective date.
 
 ## Contact
-Questions or concerns: **YOUR_EMAIL_ADDRESS**  
+Questions or concerns: info@codenestle.com.au  
 (Replace this placeholder with your preferred support email.)
 
 ---
